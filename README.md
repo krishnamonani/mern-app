@@ -33,24 +33,8 @@ MongoDB – NoSQL database for flexible data storage.
 
 
 📂 Project Structure
-mern-product-store/
-├── 📁 backend/                  # Backend codebase
-│   ├── 📁 config/               # Database connection setup
-│   ├── 📁 controllers/          # Request handling logic
-│   ├── 📁 models/               # Mongoose schemas
-│   ├── 📁 routes/               # Express API routes
-│   └── 📄 server.js             # Backend entry point
-├── 📁 frontend/                 # Frontend codebase
-│   ├── 📁 src/                  # React source files
-│   │   ├── 📁 components/       # Reusable UI components
-│   │   ├── 📁 pages/            # Route-based pages
-│   │   ├── 📁 store/            # Zustand state management
-│   │   ├── 📄 App.jsx           # Main React app component
-│   │   └── 📄 main.jsx          # Frontend entry point
-│   └── 📄 vite.config.js        # Vite configuration
-├── 📄 .env                      # Environment variables
-├── 📄 package.json              # Project dependencies
-└── 📄 README.md                 # You're here! 🚀
+<img width="809" height="603" alt="image" src="https://github.com/user-attachments/assets/7262d949-b1ee-42fa-99c2-c8063026cfe1" />
+
 
 
 🚀 Getting Started
