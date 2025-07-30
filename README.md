@@ -1,4 +1,4 @@
-🛒** MERN Stack Product Store **✨
+🛒# MERN Stack Product Store ✨
 A modern, full-stack web application built with the MERN (MongoDB, Express.js, React, Node.js) stack.This project is a feature-rich product management system, enabling seamless CRUD (Create, Read, Update, Delete) operations for managing products with a sleek, user-friendly interface.
 
 🌟 Features
